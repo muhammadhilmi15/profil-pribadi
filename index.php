@@ -300,7 +300,7 @@
     <script>
     $(function(){
         $(".jobdesc").typed({
-            strings: ["^1000 Hello, ^1000 welcome to my personal website.^2000","^1000 Nice to see you :D ^2000"],
+            strings: ["^1000 Hello, ^1000 welcome to my personal website.^2000","^1000 Nice to meet you :D ^2000"],
             contentType: 'html',
             typeSpeed: 30,
             showCursor: false,
