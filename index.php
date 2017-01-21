@@ -76,7 +76,7 @@
                             <td>Islam</td>
                         </tr>
                         <tr>
-                            <td>Nationaloty</td>
+                            <td>Nationality</td>
                             <td>:</td>
                             <td>Indonesian</td>
                         </tr>
@@ -118,7 +118,7 @@
                             <!-- <img src="cd-icon-picture.svg" alt="Picture"> -->
                         </div>
                         <div class="cd-timeline-content">
-                            <h2>State Islamic Junior High State School, Makassar</h2>
+                            <h2>State Islamic Junior High School, Makassar</h2>
                             <p>2008-2011</p>
                         </div>
                     </div>
