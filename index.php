@@ -266,7 +266,7 @@
                             <img src="img/git.png" class="iconDetails">
                         </div>
                         <div class="link">
-                            <a style="text-decoration: none;" href="https://github.com/muhammadhilmi15">muhammadhilmi15</a>
+                            <a style="text-decoration: none;" href="https://github.com/muhammadhilmi15">@muhammadhilmi15</a>
                         </div>
                     </div>
                     <div class="contact">
@@ -288,9 +288,9 @@
         <p class="footer-company-motto">Contact Me for Freelance and Part Time Project</p>
         <li>
             <a class="large button blue" style="text-decoration: none;" href="mailto:hilmihafid@gmail.com?subject=I Want To Hire You">Hire Me!</a>
-            <a class="large button blue" style="text-decoration: none;" href="http://jodspookysite.wordpress.com">See My Blog</a>
+            <a class="large button blue" style="text-decoration: none;" href="http://notes.hilmimuhammad.xyz">See My Blog</a>
         </li>
-        <p class="footer-company-name">hilmimuhammmad.xyz &copy; 2016</p>
+        <p class="footer-company-name">www.hilmimuhammmad.xyz &copy; 2016</p>
     </footer>
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
