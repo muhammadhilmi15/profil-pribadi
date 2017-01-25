@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/a14c60426de5ed0a07b9301b2cf1bca4?s=32" sizes="16x16" />
+    <link rel="shortcut icon" type="image/x-icon" href="img/image3420.png" size="16x16" />
 </head>
 <body>
     <!-- Header -->
